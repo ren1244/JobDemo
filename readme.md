@@ -1,6 +1,6 @@
 # CodeIgniter + Line Message API
 
-* 這兩天開始看 CodeIgniter 的文件，順便把之前沒有列在作品，與 Line Message API 以 CodeIgniter 實作。
+* 這兩天開始看 CodeIgniter 的文件，順便把之前沒有列在作品的 Line Message API 以 CodeIgniter 實作。
 
 * 資料夾 M、V、C 分別對應 CodeIgniter 的 modles、views、controllers 資料夾。
 
